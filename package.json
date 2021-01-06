@@ -29,7 +29,7 @@
   },
   "devDependencies": {
     "@smartthings/core-sdk": "^0.2.6",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "jest": "^26.0.1",
     "node": "^12.13.0"
   }
